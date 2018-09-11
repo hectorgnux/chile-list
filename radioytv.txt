@@ -1,4 +1,3 @@
-#Populares
 13.cl
 chilevision.cl
 mega.cl
